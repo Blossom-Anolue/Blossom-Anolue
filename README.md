@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/Blossom-Anolue">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=890&text=Hi%2C%20%F0%9F%91%8B%20I'm%20Blossom%20Anolue" alt="Hi, 👋 I&#39;m Blossom Anolue" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&fontSize=54&height=90&width=890&text=Hi%2C%20%F0%9F%91%8B%20I'm%20Blossom%20Anolue" alt="Hi, 👋 I&#39;m Blossom Anolue" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=490&height=44&lines=Turning%20problems%20into%20projects;%E0%AB%AE%20%E0%BE%80%E0%BD%B2%E1%B4%97%CD%88%20.%20%E1%B4%97%CD%88%20%E0%BE%80%E0%BD%B2%E1%83%90" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=000000&center=true&vCenter=true&width=490&height=44&lines=Turning%20problems%20into%20projects;%E0%AB%AE%20%E0%BE%80%E0%BD%B2%E1%B4%97%CD%88%20.%20%E1%B4%97%CD%88%20%E0%BE%80%E0%BD%B2%E1%83%90" alt="Typing headlines" />
 </p>
 
 ### ABOUT ME
